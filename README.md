@@ -13,7 +13,7 @@ It includes **test cases**, **bug reports**, and **test scenarios** for a sample
 │ ├── jira_defect_report.md # Sample defect report
 │ └── bug_screenshots/ # Screenshots of defects
 │ ├── firefox_login_button_not_working.png
-│ └── typo_in_error_message.png
+│ └── typo_in_error_message.png 
 │
 └── test-scenarios/
 ├── functional_scenarios.md # Functional testing scenarios
