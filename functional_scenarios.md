@@ -1,4 +1,4 @@
-# Functional Test Scenarios – Login Application
+Functional Test Scenarios – Login Application
 
 1. Verify login with valid credentials.
 2. Verify login fails with invalid username.
@@ -9,3 +9,4 @@
 7. Verify "Forgot Password" link works.
 8. Verify successful logout.
 9. Verify session timeout works.
+
