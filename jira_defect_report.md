@@ -20,4 +20,4 @@
 **Environment:** Windows 10, Firefox v110  
 
 **Attachments:**  
-- `bug_screenshots/firefox_login_bug.png`
+firefox_login_button_not_working.png.png
